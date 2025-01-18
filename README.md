@@ -1,4 +1,4 @@
-🌱 Julián Schmidt, Software Developer
+🌱 Julián Schmidt, Software Developer <br/>
 📫 https://www.linkedin.com/in/juli%C3%A1n-n-schmidt/
 
 <!---
